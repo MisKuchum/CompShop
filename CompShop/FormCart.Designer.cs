@@ -43,7 +43,7 @@ namespace FirstApp
             this.dgvCart.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvCart.Location = new System.Drawing.Point(12, 64);
             this.dgvCart.Name = "dgvCart";
-            this.dgvCart.Size = new System.Drawing.Size(382, 301);
+            this.dgvCart.Size = new System.Drawing.Size(436, 301);
             this.dgvCart.TabIndex = 7;
             // 
             // btnBuy
@@ -58,7 +58,7 @@ namespace FirstApp
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(213, 12);
+            this.btnDelete.Location = new System.Drawing.Point(265, 14);
             this.btnDelete.Name = "btnDelete";
             this.btnDelete.Size = new System.Drawing.Size(181, 44);
             this.btnDelete.TabIndex = 8;
@@ -90,7 +90,7 @@ namespace FirstApp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(405, 412);
+            this.ClientSize = new System.Drawing.Size(460, 412);
             this.Controls.Add(this.lblSum);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnDelete);
